@@ -11,6 +11,8 @@ Things you may want to cover:
 
 マスターブランチでの修正
 
+testブランチの修正
+
 * Ruby version
 
 * System dependencies
